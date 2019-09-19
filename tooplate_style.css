@@ -19,7 +19,7 @@ a:hover { text-decoration: underline; }
 p { margin: 0 0 15px 0; padding: 0; }
 img { border: none; }
 
-h1 { color: #845c8e;  font-family:CR A Std, monospace; font-style: oblique; font-stretch:ultra-condensed;, font-weight:100}
+h1 { color: #845c8e;  font-family:CR A Std, monospace; font-style: oblique; font-stretch:ultra-condensed; font-weight:100}
 h1 { font-size: 40px; margin: 0 0 35px 0; padding: 5px 0; }
 
 h2, h3, h4, h5, h6 { color: #555; font-weight: normal }
